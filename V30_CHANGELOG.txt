@@ -1,0 +1,5 @@
+V30 additions
+- Business Intelligence Assistant section and navigation link
+- Suggested questions for project progress, finance, overdue work and support tickets
+- Transparent source availability and account-visible data caveats
+- V30 setup and release notes

@@ -1,0 +1,4 @@
+V31 | Sales & Lead Intelligence
+- Adds sales pipeline overview and heuristic lead prioritisation.
+- Adds stage distribution, next-action prompts and CSV export.
+- Uses authenticated Supabase session; no third-party AI calls or automatic outreach.

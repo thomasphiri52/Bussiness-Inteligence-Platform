@@ -1,0 +1,1 @@
+V31 adds Sales & Lead Intelligence: pipeline and weighted-value summaries, rules-based priority scores, stage visualisation, follow-up suggestions, and CSV export. Configure Supabase and validate organisation-scoped RLS before production.
