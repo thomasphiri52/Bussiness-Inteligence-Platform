@@ -1,0 +1,1 @@
+V32: Introduced midnight navy background, cyan/blue/purple gradients, glass-effect panels, luminous hero art, upgraded buttons and cards, and responsive styling. Existing features retained.
